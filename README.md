@@ -14,7 +14,7 @@ spotify-this-song : This will show the following information about the song in y
   The song's name
   A preview link of the song from Spotify
   The album that the song is from
-node liri.js spotify-this-song '<song name here>'
+  node liri.js spotify-this-song '<song name here>'
 If no song is provided then your program will default to "The Sign" by Ace of Base.
 
 movie-this

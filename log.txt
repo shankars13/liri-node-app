@@ -1,0 +1,152 @@
+------------------------------------
+node liri.js undefined 
+Valid format : node liri.js my-tweets/spotify-this-song <song name>/movie-this <movie name>/do-what-it-says 
+------------------------------------
+node liri.js my-tweet 
+Valid format : node liri.js my-tweets/spotify-this-song <song name>/movie-this <movie name>/do-what-it-says 
+------------------------------------
+node liri.js my-tweets 
+****************************
+Thu, Nov 2, 2017 9:39 AM
+https://t.co/HoovJBt2vg
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 9:01 AM
+RT @sdut: Orange County plans crackdown on homeless camps on Santa Ana River, fearing the area is becoming 'skid row' https://t.co/gjJBBqoO…
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 9:01 AM
+RT @sdut: Unlikely trip to Breeders' Cup is trainer's 'underdog story' https://t.co/vSK9BLJjNc https://t.co/hPcN1sfS5B
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 9:00 AM
+RT @CBS8: More than dozen more cases of E. coli reported at Marine Corps Recruit Depot https://t.co/a3C7vbG435 https://t.co/2gmfha6W32
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 9:00 AM
+RT @nbcsandiego: We're 100 days out from the #WinterOlympics! What are you most excited to see?
+ https://t.co/kjoUT3Upj3 https://t.co/l25Du…
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 9:00 AM
+RT @sdut: Police: Bike theft leads to stabbing of man, 48 https://t.co/sAvVxtBOJA https://t.co/mnBrznIyfC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:59 AM
+RT @sdut: Brother of San Diego attorney killed in Las Vegas shooting asks pension board to divest from gun retailers https://t.co/oH1GZ9n3L…
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:59 AM
+RT @sdut: Prep scoreboard: Nov. 1 results and playoff schedules https://t.co/SHdLu6Jo0j https://t.co/dLIfj4mdKZ
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:59 AM
+RT @ConsumerBobNBC: Why you should think twice before posting those Halloween pictures online, watch #NBC7 at 4:45pm https://t.co/S9wnXHv2sX
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:58 AM
+RT @sdut: SDG&amp;E's new computer system would cost almost $1B over its lifespan https://t.co/2xAQYkcpxg https://t.co/nGOBGTM0dv
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:58 AM
+RT @sdut: San Diego transparency law for city business deals gets green light https://t.co/rm9Wnh3xKS https://t.co/ErHmZemLDq
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:58 AM
+RT @nbcsandiego: This new limited-edition Sam Adams beer has an alcohol content so high, it is illegal to sell in 12 states. https://t.co/I…
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:57 AM
+RT @nbcsandiego: President Donald Trump is prepared Thursday to name his choice to lead the Fed.
+https://t.co/hMfxqK9ebx
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:57 AM
+RT @sdut: Column | How a $20 microscope led to a $20,000 prize for 14-year-old https://t.co/m0NyXxlwKW https://t.co/ZMWydASuWW
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:56 AM
+RT @sdut: Cheesecake Factory, H&amp;M to open at Carlsbad mall https://t.co/tAvnC15BAc https://t.co/HqS0LrcOh3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:56 AM
+RT @sdutIdeas: And #1 on our list of California's biggest Trump trolls is............................. @tedlieu! https://t.co/JVKynk7XKU ht…
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:55 AM
+RT @sdutIdeas: #2 on the list of the biggest Trump trolls in California is his replacement on #CelebrityApprentice @Schwarzenegger https://…
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:55 AM
+RT @sdutIdeas: In our ranking of the biggest Trump trolls in California, @RepKarenBass is #8 https://t.co/JVKynk7XKU https://t.co/17L9V3t9Aj
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:55 AM
+⚡️ “California's biggest Trump trolls, ranked” by @sdutIdeas
+
+https://t.co/whhYH06qfX
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Thu, Nov 2, 2017 8:51 AM
+RT @nbcsandiego: The mayor says several surfers, including himself, were sickened from sewage in the water https://t.co/TaYoPOxYfM
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+****************************
+------------------------------------
+node liri.js undefined 
+Valid format : node liri.js my-tweets/spotify-this-song <song name>/movie-this <movie name>/do-what-it-says 
+------------------------------------
+node liri.js specify-this-song single ladies
+Valid format : node liri.js my-tweets/spotify-this-song <song name>/movie-this <movie name>/do-what-it-says 
+------------------------------------
+node liri.js spotify-this=song single ladies
+Valid format : node liri.js my-tweets/spotify-this-song <song name>/movie-this <movie name>/do-what-it-says 
+------------------------------------
+node liri.js spotify-this-song single ladies
+****************************
+Artist name : Beyoncé
+Song name : Single Ladies (Put a Ring on It)
+Album name : I AM...SASHA FIERCE
+Preview URL : https://p.scdn.co/mp3-preview/69c8bae97df9121ee440b23053fe20f64c204408?cid=1385505c89594668a02883394e12dbee
+****************************
+------------------------------------
+node liri.js spotify-this-song 
+****************************
+Artist name : Ace of Base
+Song name : The Sign
+Album name : The Sign (US Album) [Remastered]
+Preview URL : https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=1385505c89594668a02883394e12dbee
+****************************
+------------------------------------
+node liri.js movie-this cinderalla
+****************************
+Title: Ang hiwaga ni Maria Cinderalla
+Released in: 1973
+Rated: N/A
+Country: Philippines
+Language: Filipino, Tagalog
+Plot: N/A
+Actors: Vilma Santos, Jay Ilagan, Blanca Gomez, Ike Lozada
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+****************************
+------------------------------------
+node liri.js movie-this lion king
+****************************
+Title: The Lion King
+Released in: 1994
+Rated: G
+Country: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame, Jim Cummings
+Rotten Tomatoes Rating: 92%
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/the_lion_king/
+****************************
+------------------------------------
+node liri.js movie-this 
+If you haven't watched 'Mr. Nobody,' then you should. http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+****************************
+Title: Mr. Nobody
+Released in: 2009
+Rated: R
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 66%
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+****************************
+------------------------------------
+node liri.js undefined 
+Valid format : node liri.js my-tweets/spotify-this-song <song name>/movie-this <movie name>/do-what-it-says 
+------------------------------------
+node liri.js do-what-it-says 
+Random file contains : spotify-this-song I Want it That Way
+****************************
+Artist name : Backstreet Boys
+Song name : I Want It That Way
+Album name : The Hits--Chapter One
+Preview URL : https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1385505c89594668a02883394e12dbee
+****************************
